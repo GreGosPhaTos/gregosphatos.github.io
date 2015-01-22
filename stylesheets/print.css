@@ -99,6 +99,7 @@ pre {
 pre code {
   padding: 0;
 }
+.pl-k,.pl-s,.pl-st{color:#a71d5d}
 
 ul, ol, dl {
   margin-bottom: 20px;
